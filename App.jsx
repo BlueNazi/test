@@ -1,11 +1,11 @@
 
 import React from 'react';
-import { ReverseString, MostFrequent, IsPrime, DiagonalSum, SortedWords } from './questions_1_to_5';
+import { ReverseString, MostFrequent, IsPrime, DiagonalSum, SortedWords } from './questions';
 
 function App() {
   return (
     <div style={{ fontFamily: 'sans-serif', padding: '20px' }}>
-      <h1>تست توابع چالش فنـاپ</h1>
+     
 
       <h2>1. معکوس کردن رشته</h2>
       <ReverseString input="hello" />
